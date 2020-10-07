@@ -1,0 +1,4 @@
+this is an example sentence with given number char with one byte
+this is an example sentence with append
+
+
